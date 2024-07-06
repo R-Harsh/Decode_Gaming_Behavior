@@ -18,9 +18,9 @@ As we explore this gaming world, we're armed with algorithms and analytics, but 
 
 ## Contact
 
-Author: Smit Rana
+Author: Harsh Patel
 
-LinkedIn: https://www.linkedin.com/in/smit98rana/
+LinkedIn: www.linkedin.com/in/harshpatel1606
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
